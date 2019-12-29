@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.example.springbootconfig.autoconfig.ConfigAutoApplication
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.example.springbootconfig.autoconfig.EnvironmentAutoWire
+
